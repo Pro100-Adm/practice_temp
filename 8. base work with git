@@ -1,0 +1,3 @@
+create local repo - git init (in empty folder)
+add a file in git - fit add <filename> (in folder with git repo)
+commit (fix changes in repo) - git commit -m <comment>
